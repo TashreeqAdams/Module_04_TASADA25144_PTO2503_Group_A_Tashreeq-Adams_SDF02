@@ -1,0 +1,28 @@
+.row4 {
+  width: 450px;
+}
+
+.row3 {
+  width: 330px;
+}
+
+.row2 {
+  width: 100px;
+}
+
+.row1 {
+  width: 150px;
+}
+
+.row {
+  width: 400px;
+}
+
+.container {
+  display: flex;
+  justify-content: left;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  margin: 0%;
+}
