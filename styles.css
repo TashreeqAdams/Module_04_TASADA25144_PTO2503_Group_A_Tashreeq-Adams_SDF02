@@ -1,6 +1,7 @@
 .footer {
   display: flex;
   justify-content: left;
+  margin-left: 5px;
 }
 
 .main-container {
